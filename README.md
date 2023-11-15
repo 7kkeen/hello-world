@@ -1,2 +1,2 @@
 # hello-world
-learning github 
+I like school is better than home 
